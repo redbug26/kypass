@@ -12,7 +12,7 @@ This repository is currently being used for hosting the official issue & bug tra
 
 - Official pages: [Facebook](https://www.facebook.com/kyuran.be/), [Twitter](http://twitter.com/kyuran)
 
-
+### Beta version
 
 You can [join the Testflight public beta](https://testflight.apple.com/join/wlZmOo9t).
 
